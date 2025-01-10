@@ -1,7 +1,7 @@
 # Flight-Management-System
 /**
  * @copyright
- * Project: Data Structure Course Design Project 1
+ * Project: Data Structure Course Design Project 1, Flight-Management-System
  * Course: Data Structure (2024)
  * Institution: School of Computer Science, China University of Geosciences (Wuhan)
  * Major: Software Engineering
@@ -15,7 +15,7 @@
 
  /**
  * @版权声明
- * 项目名称：数据结构课程设计项目1
+ * 项目名称：数据结构课程设计项目1，飞机票航班管理系统
  * 课程名称：数据结构（2024年）
  * 所属学院：中国地质大学（武汉）计算机学院
  * 专业：软件工程
